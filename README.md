@@ -1,0 +1,2 @@
+# InsanityRP
+Mods Init
